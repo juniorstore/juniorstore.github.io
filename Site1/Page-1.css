@@ -321,7 +321,6 @@
 }
 
 .u-section-2 .u-text-2 {
-  font-size: 0.875rem;
   margin: 26px 7px 0;
 }
 
@@ -355,7 +354,6 @@
 }
 
 .u-section-2 .u-text-4 {
-  font-size: 0.875rem;
   margin: 26px 7px 0;
 }
 
@@ -389,7 +387,6 @@
 }
 
 .u-section-2 .u-text-6 {
-  font-size: 0.875rem;
   margin: 26px 7px 0;
 }
 
@@ -437,6 +434,7 @@
   .u-section-2 .u-text-4 {
     margin-left: 0;
     margin-right: 0;
+    font-size: 0.875rem;
   }
 
   .u-section-2 .u-btn-2 {
@@ -451,6 +449,7 @@
   .u-section-2 .u-text-6 {
     margin-left: 0;
     margin-right: 0;
+    font-size: 0.875rem;
   }
 
   .u-section-2 .u-btn-3 {
