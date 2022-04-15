@@ -8,28 +8,28 @@
 }
 
 .u-section-1 .u-repeater-1 {
-  grid-template-columns: repeat(3, 33.3333%);
+  grid-template-columns: 33.3333% 33.3333% 33.3333%;
   min-height: 375px;
-  grid-gap: 0px;
+  grid-gap: 0px 0px;
 }
 
 .u-section-1 .u-container-layout-1 {
-  padding: 20px 0 20px 30px;
+  padding: 0;
 }
 
 .u-section-1 .u-image-1 {
   height: 336px;
-  margin-top: 0;
-  margin-bottom: 0;
+  width: 350px;
+  margin: -17px auto 0 -97px;
 }
 
 .u-section-1 .u-text-1 {
   font-weight: 700;
-  margin: 20px auto 0 0;
+  margin: 57px auto 0 30px;
 }
 
 .u-section-1 .u-text-2 {
-  margin: 20px 0 0;
+  margin: 20px 30px 0;
 }
 
 .u-section-1 .u-btn-1 {
@@ -39,27 +39,27 @@
   text-transform: uppercase;
   background-image: none;
   font-weight: 700;
-  margin: 10px auto 0 0;
+  margin: 10px auto 0 30px;
   padding: 7px 7px 8px 6px;
 }
 
 .u-section-1 .u-container-layout-2 {
-  padding: 20px 0 20px 30px;
+  padding: 0;
 }
 
 .u-section-1 .u-image-2 {
   height: 336px;
-  margin-top: 0;
-  margin-bottom: 0;
+  width: 350px;
+  margin: -17px auto 0 -97px;
 }
 
 .u-section-1 .u-text-3 {
   font-weight: 700;
-  margin: 20px auto 0 0;
+  margin: 57px auto 0 30px;
 }
 
 .u-section-1 .u-text-4 {
-  margin: 20px 0 0;
+  margin: 20px 30px 0;
 }
 
 .u-section-1 .u-btn-2 {
@@ -69,27 +69,27 @@
   text-transform: uppercase;
   background-image: none;
   font-weight: 700;
-  margin: 10px auto 0 0;
+  margin: 10px auto 0 30px;
   padding: 7px 7px 8px 6px;
 }
 
 .u-section-1 .u-container-layout-3 {
-  padding: 20px 0 20px 30px;
+  padding: 0;
 }
 
 .u-section-1 .u-image-3 {
   height: 336px;
-  margin-top: 0;
-  margin-bottom: 0;
+  width: 350px;
+  margin: -17px auto 0 -97px;
 }
 
 .u-section-1 .u-text-5 {
   font-weight: 700;
-  margin: 20px auto 0 0;
+  margin: 57px auto 0 30px;
 }
 
 .u-section-1 .u-text-6 {
-  margin: 20px 0 0;
+  margin: 20px 30px 0;
 }
 
 .u-section-1 .u-btn-3 {
@@ -99,7 +99,7 @@
   text-transform: uppercase;
   background-image: none;
   font-weight: 700;
-  margin: 10px auto 0 0;
+  margin: 10px auto 0 30px;
   padding: 7px 7px 8px 6px;
 }
 
@@ -114,16 +114,16 @@
     min-height: 315px;
   }
 
-  .u-section-1 .u-image-1 {
-    height: 272px;
+  .u-section-1 .u-text-2 {
+    margin-right: 0;
   }
 
-  .u-section-1 .u-image-2 {
-    height: 272px;
+  .u-section-1 .u-text-4 {
+    margin-right: 0;
   }
 
-  .u-section-1 .u-image-3 {
-    height: 272px;
+  .u-section-1 .u-text-6 {
+    margin-right: 0;
   }
 }
 
@@ -132,61 +132,11 @@
     grid-template-columns: repeat(2, 50%);
     min-height: 724px;
   }
-
-  .u-section-1 .u-image-1 {
-    height: 317px;
-  }
-
-  .u-section-1 .u-image-2 {
-    height: 317px;
-  }
-
-  .u-section-1 .u-image-3 {
-    height: 317px;
-  }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-repeater-1 {
     grid-template-columns: 100%;
-  }
-
-  .u-section-1 .u-container-layout-1 {
-    padding-left: 10px;
-  }
-
-  .u-section-1 .u-image-1 {
-    height: 509px;
-  }
-
-  .u-section-1 .u-container-layout-2 {
-    padding-left: 10px;
-  }
-
-  .u-section-1 .u-image-2 {
-    height: 509px;
-  }
-
-  .u-section-1 .u-container-layout-3 {
-    padding-left: 10px;
-  }
-
-  .u-section-1 .u-image-3 {
-    height: 509px;
-  }
-}
-
-@media (max-width: 575px) {
-  .u-section-1 .u-image-1 {
-    height: 317px;
-  }
-
-  .u-section-1 .u-image-2 {
-    height: 317px;
-  }
-
-  .u-section-1 .u-image-3 {
-    height: 317px;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 552px;
@@ -219,7 +169,7 @@
 }
 
 .u-section-2 .u-text-2 {
-  margin: 20px 0 0;
+  margin: 0;
 }
 
 .u-section-2 .u-btn-1 {
@@ -229,7 +179,7 @@
   text-transform: uppercase;
   background-image: none;
   font-weight: 700;
-  margin: 20px auto 0 0;
+  margin: 40px auto 0 0;
   padding: 1px 9px 3px 8px;
 }
 
@@ -249,7 +199,7 @@
 }
 
 .u-section-2 .u-text-4 {
-  margin: 20px 0 0;
+  margin: 0;
 }
 
 .u-section-2 .u-btn-2 {
@@ -259,7 +209,7 @@
   text-transform: uppercase;
   background-image: none;
   font-weight: 700;
-  margin: 20px auto 0 0;
+  margin: 40px auto 0 0;
   padding: 1px 9px 3px 8px;
 }
 
@@ -279,7 +229,7 @@
 }
 
 .u-section-2 .u-text-6 {
-  margin: 20px 0 0;
+  margin: 0;
 }
 
 .u-section-2 .u-btn-3 {
@@ -289,7 +239,7 @@
   text-transform: uppercase;
   background-image: none;
   font-weight: 700;
-  margin: 20px auto 0 0;
+  margin: 40px auto 0 0;
   padding: 1px 9px 3px 8px;
 }
 
